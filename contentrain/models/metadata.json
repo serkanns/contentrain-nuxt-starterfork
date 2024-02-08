@@ -126,5 +126,12 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "qweqweqwe",
+    "modelId": "qweqweqwe",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
